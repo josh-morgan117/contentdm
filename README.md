@@ -7,3 +7,5 @@ This method is for creating separate tab delimited files for each compound objec
 
 Sheet 1 is titled Data and should include all of your metadata. Column A should have identifiers, and Column B should have the related compound object identifier or title (depends on how you want to upload your files). Columns C through n can hold the rest of your metadata.
 Sheet 2 has the macro button and requires the file path to output your tab delimited files.
+
+I am currently working on adding a loop to check for the separate directory folder and saving the file there or creating the directory needed and then saving the file.
