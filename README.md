@@ -1,6 +1,8 @@
 # contentdm
 Making CONTENTdm uploading easier
 
+NOTE: Be sure to TRIM and CLEAN your data. Trailing spaces can cause errors.
+
 Split Data file:
 
 This method is for creating separate tab delimited files for each compound object, something needed for uploading using the directory structure in CONTENTdm Project Client. For how to use directory structure uploading, see this video https://www.youtube.com/watch?v=g7QjfRK0Y0o&t=14s
