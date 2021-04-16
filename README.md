@@ -1,5 +1,5 @@
 # contentdm
-Making CONTENTdm uploading easier
+Making CONTENTdm compound object via directory uploading easier
 
 NOTE 1: Be sure to TRIM and CLEAN your data. Trailing spaces can cause errors.
 
