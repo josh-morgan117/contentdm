@@ -2,7 +2,7 @@
 Making CONTENTdm uploading easier
 
 NOTE 1: Be sure to TRIM and CLEAN your data. Trailing spaces can cause errors.
-NOTE 2: I'm working on the issue of Column A and B not needing to be in the metadata which goes online. This means you would need to remove Columns A and B from each tab delimited file in order to upload it to Project Client, which is cumbersome. 
+
 
 Split Data file:
 
